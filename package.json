@@ -1,0 +1,17 @@
+{
+  "name": "language-aruba",
+  "version": "0.0.1",
+  "description": "Aruba 2xx/3xx IAP, 25xx/29xx switch, and 7xxx controller language support",
+  "engines": {
+    "atom": "*"
+  },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/{x}/{y}.git"
+  },
+  "bugs": {
+    "url": "https://github.com/{x}/{y}/issues"
+  },
+  "license": "MIT"
+}
