@@ -7,9 +7,7 @@ Aruba language syntax for Atom editor. Tested on the following devices:
 
 ## Installation
 
-cd into your .atom/packages directory and then run:
-
-    git clone https://github.com/nmanske/language-aruba
+Available on atom.io as [language-aruba](https://atom.io/packages/language-aruba). In atom editor go to File -> Settings -> Install and search for the package.
 
 ## Packages
 
