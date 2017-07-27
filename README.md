@@ -4,7 +4,6 @@ Aruba language syntax for Atom editor. Tested on the following devices:
 
 * Aruba 2xx/3xx IAPs
 * 25xx/29xx switches
-* 7xxx controllers
 
 ## Installation
 

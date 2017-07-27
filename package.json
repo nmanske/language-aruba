@@ -1,7 +1,7 @@
 {
   "name": "language-aruba",
-  "version": "0.0.1",
-  "description": "Aruba 2xx/3xx IAP, 25xx/29xx switch, and 7xxx controller language support",
+  "version": "0.0.0",
+  "description": "Aruba 2xx/3xx IAP and 25xx/29xx switch language support",
   "engines": {
     "atom": "*"
   },
